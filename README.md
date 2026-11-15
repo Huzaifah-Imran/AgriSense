@@ -200,7 +200,3 @@ AgriSense provides AI-generated suggestions based on recent climate data. It is 
 - [NASA POWER](https://power.larc.nasa.gov/) for agroclimatology data
 - [CrewAI](https://www.crewai.com/), [Flet](https://flet.dev/), [Ollama](https://ollama.com/), [Pinggy](https://pinggy.io/)
 - OpenStreetMap / Nominatim for geocoding
-
-## 📄 License
-
-Add your preferred license here (e.g. MIT).
